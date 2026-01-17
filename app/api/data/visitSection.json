@@ -1,0 +1,56 @@
+{
+  "heroImage": {
+    "src": "/images/item19.png",
+    "alt": "Visit Wright's Ferry Mansion"
+  },
+
+  "heroText": {
+    "eyebrow": "Schedule a visit to ",
+    "titleLines": [
+      "India's First ",
+      "Constitution Museum"
+    ],
+    "link": {
+      "label": "HERE’S HOW",
+      "href": "#"
+    }
+  },
+
+  "address": {
+    "label": "ADDRESS",
+    "lines": [
+      "Samvidhaan Marg",
+      "Ratan Jindal Block",
+      "O. P. Jindal Global University",
+      "Sonipat, Haryana - 131001"
+    ]
+  },
+
+  "phone": {
+    "label": "PHONE",
+    "value": "+1 (717) 684–4325"
+  },
+
+  "tours": {
+    "label": "TOURS",
+    "linkText": "Schedule a Tour",
+    "href": "#"
+  },
+
+  "footer": {
+    "navLeft": [
+      "Home",
+      "About",
+      "History",
+      "Collection",
+      "Tour Policies"
+    ],
+    "navRight": [
+      "Virtual Tour",
+      "Plan a Visit",
+      "Book Shop",
+      "Contact Us"
+    ],
+    "copyright": "Copyright 2025. All rights reserved."
+  }
+}
