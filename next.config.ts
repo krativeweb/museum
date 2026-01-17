@@ -1,14 +1,18 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "export",
-  trailingSlash: true,
-
-  basePath: "/museum",
-  assetPrefix: "/museum/",
-
   images: {
     unoptimized: true,
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "i.pinimg.com",
+      },
+      {
+        protocol: "https",
+        hostname: "cdn.prod.website-files.com",
+      },
+    ],
   },
 };
 
